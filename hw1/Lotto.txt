@@ -4,7 +4,7 @@
 int main() {
     int n,T,a;
     T=6;
-    n=3;
+    n=2;
     a=5;
     srand(T);
     time_t curtime;
